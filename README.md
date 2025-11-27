@@ -19,8 +19,7 @@ demonstrating quantum recurrence in finite-dimensional Hilbert spaces.
 
 ## Usage
 ```bash
-pip install numpy scipy
-python ccr_toy_models.py
+pip install -r requirements.txt
 ```
 
 ## Citation
