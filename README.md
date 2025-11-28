@@ -22,6 +22,9 @@ demonstrating quantum recurrence in finite-dimensional Hilbert spaces.
 pip install -r requirements.txt
 ```
 
+> **Reproducibility Note:** Please note that individual realizations of the random matrices (GOE/GUE) will vary. While the exact curves in the figures may differ from the manuscript due to different random seeds or parameter adjustments, the statistical scaling laws and qualitative behaviors remain robust.
+
+ 
 ## Citation
 
 If you use this code, please cite our paper:
