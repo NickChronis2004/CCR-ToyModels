@@ -28,5 +28,4 @@ python ccr_toy_models.py
  
 ## Citation
 
-If you use this code, please cite our paper:
-[bibtex citation here]
+If you use this code, please cite our paper: https://www.mdpi.com/2218-1997/12/1/10#
